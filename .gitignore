@@ -4,6 +4,7 @@ __pycache__/
 test.db
 /frontend/node_modules/
 /backend/env
+/backend/src/env
 
 # OS generated files #
 ######################
